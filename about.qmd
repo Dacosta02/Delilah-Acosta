@@ -1,0 +1,14 @@
+---
+title: "About"
+image: cool_crystals.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      href: https://github.com/Dacosta02
+    - icon: linkedin
+      href: https://www.linkedin.com/in/delilah-acosta-697a7429a/
+
+---
+
+Thank you for visitng my site and getting to know me!

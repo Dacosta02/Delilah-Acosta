@@ -1,0 +1,22 @@
+---
+title: "Lacustrine records of environmental change in eastern Glacier National Park, Montana, USA
+"
+author: "Kelly MacGregor, Paige Arnold, Delilah Acosta, Natalie Brennan, Lily Hatrick, Anna Lundquist, and Abigail McDonald"
+date: "2024-06-12"
+categories: [Research]
+image: "GNPPIC.jpg"
+---
+
+
+## Geological Society of America Abstract
+
+
+Accumulation of organic and inorganic matter in lakes reflects basin-wide geomorphic processes such as nearby glacial erosion, adjacent hillslope processes, and fluvial transport of sediment. Since climate is a key driver of geomorphic processes, lake sediment cores can provide high resolution temporal records of climate-driven environmental change over timescales of decades to millennia. Human activities in and around lakes can also impact sediment delivery, deposition rate, vegetation type/cover, and water chemistry. Lakes in high elevation alpine and subalpine landscapes are likely highly sensitive to both changing climate conditions and local human activities. A transect of subalpine glacially-formed lakes in eastern Glacier National Park, Montana provides a natural laboratory to understand the dual roles of human activity and climate change on lake quality and sedimentation. Well documented anthropogenic climate change in the northern Rocky Mountains has occurred alongside the arrival of Euro-Americans on Blackfeet Nation lands in the mid-1800’s and the establishment of the National Park in 1910. 
+
+In summer 2024 we collected lake sediment cores from several lakes in the Swiftcurrent Valley to examine changes in sedimentation rate and organic content since ~1800 CE. In addition, we collected lake water quality data to compare to records of water quality on Swiftcurrent Creek since the 1960’s. Preliminary results suggest lake sedimentation rates increase toward the present, with the highest sedimentation rates in downvalley lakes proximal to more human activity (e.g., roads, trails, infrastructure). These rates are an order of magnitude greater than sedimentation rates in the Holocene based on previous work.  Water temperature, dissolved oxygen, conductivity, and pH vary from lake to lake, and as a function of lake depth and location within the lake.  Redrock and Swiftcurrent Lakes are deeper (average of ~6 m and ~10 m deep, respectively) and larger, whereas Fishercap Lake is shallow (~1 m), impacting the hydrologic conditions in the lakes. Changes in sediment sources and hydrologic residence times vary between lakes and over time, and are reflected in our records. 
+
+<iframe
+  width="800" 
+  height="450" 
+  src="KeckGSA.pdf">
+</iframe>

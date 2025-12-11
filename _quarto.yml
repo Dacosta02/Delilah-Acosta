@@ -1,27 +1,29 @@
 project:
   type: website
   output-dir: docs
-  
-website:
-  title: "MY WEB SITE"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
-    tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
-  page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
 
+website:
+  title: "Delilah Acosta"
+  navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: Projects.qmd
+      - text: Resume
+        href: Resume.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/Dacosta02
+      - icon: linkedin
+        href: https://www.linkedin.com/in/delilah-acosta-697a7429a/
 format:
   html:
-    theme: cerulean
+    theme:
+      - morph
+    css: styles.css
     toc: true
 
-editor: source
+editor: visual
 

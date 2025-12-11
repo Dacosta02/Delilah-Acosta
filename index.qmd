@@ -1,19 +1,24 @@
 ---
-title: "About Me"
+title: "Hi there!"
 about:
-  id: me
-  template: broadside
-  image: img/profile.png
+  id: intro-heading
+  template: trestles
+  image: Kawaii_GNP.jpg
+  links:
+    - icon: github
+      href: https://github.com/Dacosta02
+    - icon: linkedin
+      href: https://www.linkedin.com/in/delilah-acosta-697a7429a/
 ---
 
-:::{#me}
+::: {#intro-heading}
 
-## Goals
+My name is Delilah Acosta ([pronunciation](https://namedrop.io/delilahacosta)). The pronouns that I use are [she/her/hers](https://pronouns.org/she-her).
 
-## Education
+I am an undergraduate student at Macalester College pursuing a Bachelor of Arts in Geological Sciences. My interests include igneous petrology, geochemistry and mineralogy.
 
-## Experience
+I was born in El Paso, Texas. When I was 17, I matched to Macalester College though [Questbridge](https://www.questbridge.org/apply-to-college/programs/national-college-match) and earned a full ride scholarship. I love collecting CD's and reading! My favorite CD I own is I Brought You My Bullets, You Brought Me Your Love by My Chemical Romance. I am a fan of roller skating, ice skating, and hiking. 
+
+You can contact me at [dacosta@macalester.edu](mailto:dacosta@macalester.edu).
 
 :::
-
-Thanks for checking out my web site!
