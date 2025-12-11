@@ -1,6 +1,6 @@
 ---
-title: "Lacustrine records of environmental change in eastern Glacier National Park, Montana, USA
-"
+title: "Lacustrine records of environmental change in eastern Glacier National Park, Montana, USA"
+
 author: "Kelly MacGregor, Paige Arnold, Delilah Acosta, Natalie Brennan, Lily Hatrick, Anna Lundquist, and Abigail McDonald"
 date: "2024-06-12"
 categories: [Research]
