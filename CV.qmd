@@ -1,3 +1,9 @@
+---
+title: "CV"
+about:
+  template: solana
+---
+
 <iframe width="800" height="800" src="dacostaCV2026.pdf">
 
 </iframe>

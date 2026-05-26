@@ -6,10 +6,9 @@ about:
   image: IMG_2379.jpeg
   links:
     - icon: github
-      href: https://github.com/gustavomarchant
+      href: https://github.com/Dacosta02
     - icon: linkedin
-      href: https://www.linkedin.com/in/gustavo-marchant-allende-a6b387225/
-
+      href: https://www.linkedin.com/in/delilah-acosta-697a7429a/
 ---
 
 ::: {#intro-heading}
