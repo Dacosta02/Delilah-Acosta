@@ -10,8 +10,8 @@ website:
         href: index.qmd
       - text: Projects
         href: Projects.qmd
-      - text: Resume
-        href: Resume.qmd
+      - text: CV
+        href: CV.qmd
     right:
       - about.qmd
       - icon: github
