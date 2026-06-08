@@ -6,17 +6,15 @@ about:
 
 # Plutonic Lithics Record Crystal Mush Processes Beneath the Ohakuri Caldera
 
+![](IMG_4767.jpg){width=70%}
+
 ::: {.columns}
 
-::: {.column width="50%"}
-![](IMG_4767.jpg){width=100%}
-:::
-
-::: {.column width="25%"}
+::: {.column}
 ![](fig1.png){width=100%}
 :::
 
-::: {.column width="25%"}
+::: {.column}
 ![](image.png){width=100%}
 :::
 
