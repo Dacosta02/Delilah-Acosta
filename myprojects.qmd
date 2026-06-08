@@ -6,11 +6,11 @@ about:
 
 # Plutonic Lithics Record Crystal Mush Processes Beneath the Ohakuri Caldera
 
-<div class="photo-grid">
-  <img src="fig1.png">
-  <img src="image.png">
-  <img src="IMG_4767.jpg">
-</div>
+![](fig1.png){width=30%}
+
+![](image.png){width=30%}
+
+![](IMG_4767.jpg){width=30%}
 
 This past semester I had the privilege to study abroad in NZ through the [Frontiers Abroad Geology of New Zealnd Program](https://frontiersabroad.com/) and partake in a semester long research project advised by [Prof. Sarah Smithies](https://profiles.canterbury.ac.nz/Sarah-Smithies).
 
