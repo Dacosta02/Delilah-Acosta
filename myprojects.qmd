@@ -8,16 +8,16 @@ about:
 
 ::: {.columns}
 
-::: {.column}
-![](fig1.png)
+::: {.column width="50%"}
+![](IMG_4767.jpg){width=100%}
 :::
 
-::: {.column}
-![](image.png)
+::: {.column width="25%"}
+![](fig1.png){width=100%}
 :::
 
-::: {.column}
-![](IMG_4767.jpg)
+::: {.column width="25%"}
+![](image.png){width=100%}
 :::
 
 :::
