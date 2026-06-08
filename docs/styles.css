@@ -1,1 +1,12 @@
 /* css styles */
+.photo-grid {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.photo-grid img {
+  width: 32%;
+  height: auto;
+}
