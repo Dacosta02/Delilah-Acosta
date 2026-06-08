@@ -10,6 +10,8 @@ Coming soon!
 
 ![](image.png){width=45%}
 
+![](fig1.png){width=45%}
+
 This past semester I had the privilege to study abroad in NZ through the [Frontiers Abroad Geology of New Zealnd Program](https://frontiersabroad.com/) and partake in a semester long research project advised by [Prof. Sarah Smithies](https://profiles.canterbury.ac.nz/Sarah-Smithies).
 
 Our study focuses on the magmatic system beneath the Ohakuri Caldera, which, together with the Rotorua Caldera, evacuated \>245 km3 of rhyolitic magma in the paired Ohakuri and Mamaku eruptions around 240ka.
@@ -19,7 +21,7 @@ Using petrography and SEM-EDS-BSE, we analyzed 5 plutonic lithic samples from th
 # Lacustrine Records of Environmental Change in Eastern Glacier National Park
 
 ::: photo-grid
-<img src="IMG_0931.jpeg" width="65%"/> <img src="IMG_1489.jpeg" width="65%"/>
+<img src="IMG_0931.jpeg" width="50%"/> <img src="IMG_1489.jpeg" width="50%"/>
 :::
 
 This was my first formal research experience under [Prof. Kelly MacGregor](https://www.macalester.edu/geology/facultystaff/kellymacgregor/) and my first exposure to geology field work!
