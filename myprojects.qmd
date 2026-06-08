@@ -3,6 +3,8 @@ title: "Projects"
 about:
   template: solana
 ---
+# Mauna Loa
+Coming soon!
 
 # Plutonic Lithics Record Crystal Mush Processes Beneath the Ohakuri Caldera
 
