@@ -1,10 +1,10 @@
 ---
-title: "Projects"
+title: "Research"
 about:
   template: solana
 ---
 # Mauna Loa
-Coming soon!
+Under construction!
 
 # Plutonic Lithics Record Crystal Mush Processes Beneath the Ohakuri Caldera
 
@@ -12,9 +12,7 @@ Coming soon!
 
 This past semester I had the privilege to study abroad in NZ through the [Frontiers Abroad Geology of New Zealand Program](https://frontiersabroad.com/) and partake in a semester long research project advised by [Prof. Sarah Smithies](https://profiles.canterbury.ac.nz/Sarah-Smithies).
 
-Our study focuses on the magmatic system beneath the Ohakuri Caldera, which, together with the Rotorua Caldera, evacuated \>245 km3 of rhyolitic magma in the paired Ohakuri and Mamaku eruptions around 240ka.
-
-Using petrography and SEM-EDS-BSE, we analyzed 5 plutonic lithic samples from the Ohakuri Caldera in the Taupō Volcanic Zone. Using feldspar and amphibole compositions, we obtained temperature and pressure estimates, respectively. Granophyric texture dominated the majority of samples, in which quartz and feldspars most likely formed simultaneously through a major decompression event, followed by the infilling of interstitial glass. Thermobarometry estimated that plagioclase formed at approximately 890–910 °C. Preliminary Amphibole thermobarometry at least one crystalization event with gedrite forming at \~6–7 km depth. Glass compositions in our samples differ from those reported in previously studied pumice.
+Our study focuses on the magmatic system beneath the Ohakuri Caldera, which, together with the Rotorua Caldera, evacuated \>245 km3 of rhyolitic magma in the paired Ohakuri and Mamaku eruptions around 240ka.Using petrography and SEM-EDS-BSE, we analyzed 5 plutonic lithic samples from the Ohakuri Caldera in the Taupō Volcanic Zone. Using feldspar and amphibole compositions, we obtained temperature and pressure estimates, respectively. Granophyric texture dominated the majority of samples, in which quartz and feldspars most likely formed simultaneously through a major decompression event, followed by the infilling of interstitial glass. Thermobarometry estimated that plagioclase formed at approximately 890–910 °C. Preliminary Amphibole thermobarometry at least one crystalization event with gedrite forming at \~6–7 km depth. Glass compositions in our samples differ from those reported in previously studied pumice.
 
 # Lacustrine Records of Environmental Change in Eastern Glacier National Park
 
