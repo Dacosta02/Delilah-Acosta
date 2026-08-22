@@ -3,7 +3,7 @@ title: "Projects"
 about:
   template: solana
 ---
-# Mauna Loa
+# Petrologic Study of Mauna Loa Eruptions from 1919 and 1926
 Under construction!
 
 # Plutonic Lithics Record Crystal Mush Processes Beneath the Ohakuri Caldera
